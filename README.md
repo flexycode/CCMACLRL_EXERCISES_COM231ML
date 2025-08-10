@@ -25,7 +25,7 @@ This course introduces students with a broad variety of fundamental statistical-
 
 <!-- Always document your changes, pull-request, bugfix, updates, patch notes for this final project. Always use this "🧊 Flight Booking" for commiting message for "pushing code" or "Pull-request"   -->
 # 📫 Changelogs 
-Chronological list of updates, bug fixes, new features, and other modifications for PharmaXLedger Pharmaceutical Supply Chain Management.
+Chronological list of updates, bug fixes, new features, and other modifications for Machine Learning exercises.
 
 ### 📦 Version 1.0.0 - July 23, 2025
 **Project Initialization**
