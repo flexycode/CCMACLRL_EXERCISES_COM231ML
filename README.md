@@ -34,6 +34,10 @@ Chronological list of updates, bug fixes, new features, and other modifications 
 - ✨ Established ML development workflow & README.md
 - 🔧 Initial project configuration and setup
 
+### 📦 Version 1.0.0 - August 15, 2025
+**Laboratory Friday**
+- ✨ Upload Lab Exercise 1
+
 🧊 CCMACLRL EXERCISES
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
