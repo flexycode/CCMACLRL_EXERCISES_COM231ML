@@ -1,3 +1,6 @@
+<!-- Background github cover with short introduction down below -->
+<img src="https://github.com/flexycode/CCMACLRL_EXERCISES_COM231ML/blob/main/assets/Machine-Learning-BGCover1.png" />
+
 # 🤖 K-Nearest Neighbors for Personality Classification
 
 ### 📖 Overview
@@ -16,9 +19,17 @@ Through this exercise, I've learned:
 I've worked with a custom dataset containing 100 social media user samples with the following features:
 
 
---Table
+### Features
+| Feature | Description | Values |
+|---|---|---|
+| `Name` | User identifier | Text (removed during preprocessing) |
+| `Posts/Share Frequently?` | Posting frequency behavior | 0 (Rarely), 1 (Frequently) |
+| `Active?` | Platform activity level | 0 (Low activity), 1 (High activity) |
+| `Replies to comments/messages?` | Social engagement level | 0 (Rarely replies), 1 (Often replies) |
+| `Number of Friends/Followers` | Social network size | Numeric (50-5000) |
+| `Personality` | Target variable | 0 (Introvert), 1 (Extrovert) |
 
---
+---
 
 ### Dataset Statistics
 
@@ -81,7 +92,13 @@ y_pred = knn.predict(X_test)
 
 Based on the implementation, I've achieved the following results:
 
---Table
+### Model Performance
+| Metric | Score | Description |
+|---|---|---|
+| `Accuracy` | `~85-90%` | Overall prediction correctness |
+| `Precision` | `~80-85%` | Accuracy of positive predictions |
+| `Recall` | `~85-90%` | Coverage of actual positives |
+| `F1-Score` | `~82-87%` | Harmonic mean of precision and recall |
 
 ### Confusion Matrix
 ```
@@ -204,3 +221,20 @@ For questions about this implementation or collaboration opportunities:
 -----------------------------------------------------------------------------------
 This exercise is part of the Computer Science Machine Learning course (COM231ML) laboratory activities.  
 
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
+</p>
+
+<!-- Siero Miero -->
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGJ0aW80YnkwcjdmNzdzZ2tuMDdpaTZydzV5dTQ3M2VtdXlrd2k0ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iF7FoIWjpHD7E2ndx4/giphy.gif" width="300">
+</div>
+
+<!-- End point line insert Comeback again next time, feel free to modify this  -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Come+Back+Again+next+time" alt="mystreak"/>
+</p>
+
+</p>
+    
