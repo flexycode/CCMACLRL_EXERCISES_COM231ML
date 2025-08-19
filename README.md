@@ -1,3 +1,6 @@
+<!-- Background github cover with short introduction down below -->
+<img src="https://github.com/flexycode/CCMACLRL_EXERCISES_COM231ML/blob/main/assets/Machine-Learning-BGCover.png" />
+
 # 💫 Machine Learning Exercises
 
 <!-- Background github cover with short introduction down below 
