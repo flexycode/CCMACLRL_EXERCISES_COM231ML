@@ -1,4 +1,4 @@
-# ✨ Intro to Machine Learning Exercise 1
+# ✨ Intro to Machine Learning Assignment 2
 
 ### Name: [Jay Arre Talosig](https://www.youtube.com/watch?v=-er2ruCgzjg&list=RDfFqxDrmQLnQ&index=4)  
 ### Subject & Section: [CCMACLRL - COM231ML](https://www.youtube.com/watch?v=fFqxDrmQLnQ&list=RDfFqxDrmQLnQ&start_radio=1)
