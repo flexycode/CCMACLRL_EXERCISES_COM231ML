@@ -13,7 +13,7 @@
 ### Professor: [Elizer Ponio Jr](https://github.com/robitussin/)     
 ### No. of Units: [3 Units](https://www.youtube.com/watch?v=UVJSA2N39NU&list=RDUVJSA2N39NU&start_radio=1)
 ### Prerequisite: [None](https://www.youtube.com/watch?v=v3BBE7wtuIM&list=RDv3BBE7wtuIM&start_radio=1)
-### Project Link: [Coming Soon](https://www.youtube.com/watch?v=R3rYh4iWcRk&list=RDfFqxDrmQLnQ&index=3)
+### Project Link: [ML Project Name Coming Soon](https://github.com/flexycode/CCMACLRL_COM231_PROJECT)
 
 <!-- 🤖 Machine Learning 🤖 -->
 <div align="center">
@@ -40,6 +40,18 @@ Chronological list of updates, bug fixes, new features, and other modifications 
 ### 📦 Version 1.0.0 - August 15, 2025
 **Laboratory Friday**
 - ✨ Upload Lab Exercise 1
+
+### 📦 Version 2.0.0 - TBA
+**Laboratory Friday**
+- ✨ Upload Lab Exercise 2
+
+### 📦 Version 3.0.0 - TBA
+**Laboratory Friday**
+- ✨ Upload Lab Exercise 3
+
+### 📦 Version 4.0.0 - TBA
+**Laboratory Friday**
+- ✨ Upload Lab Exercise 4
 
 🧊 CCMACLRL EXERCISES
 
