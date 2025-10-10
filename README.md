@@ -41,17 +41,30 @@ Chronological list of updates, bug fixes, new features, and other modifications 
 **Laboratory Friday**
 - ✨ Upload Lab Exercise 1
 
-### 📦 Version 2.0.0 - TBA
+### 📦 Version 2.0.0 - August 29, 2025
 **Laboratory Friday**
 - ✨ Upload Lab Exercise 2
+- ✨ Upload Lab Exercise 2B
 
-### 📦 Version 3.0.0 - TBA
+### 📦 Version 2.5.7 - September 05, 2025
+**Laboratory Friday**
+- ✨ Upload Midterm Exam
+
+### 📦 Version 3.0.0 - September 12, 2025
 **Laboratory Friday**
 - ✨ Upload Lab Exercise 3
 
-### 📦 Version 4.0.0 - TBA
+### 📦 Version 4.0.0 - Septeber 19, 2025
 **Laboratory Friday**
 - ✨ Upload Lab Exercise 4
+
+### 📦 Version 5.0.0 - Septeber 19, 2025
+**Laboratory Friday**
+- ✨ Upload Lab Exercise 5
+
+### 📦 Version 6.0.0 - October 3, 2025
+**Laboratory Friday**
+- ✨ Upload Lab Exercise 6
 
 🧊 CCMACLRL EXERCISES
 
